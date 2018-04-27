@@ -1,4 +1,4 @@
-package com.example.knight
+package com.example.knight.c1
 
 import java.io.PrintStream
 

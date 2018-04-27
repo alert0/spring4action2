@@ -1,6 +1,7 @@
 package com.example.knight
 
-import com.example.knight.config.KnightConfig
+import com.example.knight.c1.Knight
+import com.example.knight.c1.config.KnightConfig
 import org.junit.Test
 import org.junit.runner.RunWith
 import org.springframework.beans.factory.annotation.Autowired

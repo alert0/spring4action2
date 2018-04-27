@@ -1,10 +1,10 @@
 
-package com.example.knight.config
+package com.example.knight.c1.config
 
-import com.example.knight.BraveKnight
-import com.example.knight.Knight
-import com.example.knight.Quest
-import com.example.knight.SlayDragonQuest
+import com.example.knight.c1.BraveKnight
+import com.example.knight.c1.Knight
+import com.example.knight.c1.Quest
+import com.example.knight.c1.SlayDragonQuest
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 
