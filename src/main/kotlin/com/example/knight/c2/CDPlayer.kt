@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Component
 
 
-
+@Component
 class CDPlayer @Autowired
 constructor(private val cd: CompactDisc) : MediaPlayer {
 
