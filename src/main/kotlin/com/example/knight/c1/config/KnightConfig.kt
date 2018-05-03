@@ -22,4 +22,5 @@ class KnightConfig {
     fun quest(): Quest {
         return SlayDragonQuest(System.out);
     }
+
 }
